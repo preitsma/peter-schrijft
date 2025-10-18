@@ -3,11 +3,15 @@ layout: ../layouts/AboutLayout.astro
 title: "Over"
 ---
 
-Ik ben Peter. Soms denk ik iets dat ik op wil schrijven. 
+Mijn naam is Peter Reitsma. Soms heb ik gedachten die ik op wil schrijven en delen. 
+Soms programmeer ik iets dat ik ergens wil neerzetten. Vandaar deze website.
 
-Soms programmeer ik iets dat ik ergens wil neerzetten.
+---
 
-Deze website is gebouwd met [Astro](https://astro.build/) en [Tailwind CSS](https://tailwindcss.com/).
+Deze website heeft de volgende technologieën onder de motorkap:
 
-Het thema is gebaseerd op [AstroPaper](https://github.com/satnaing/astro-paper) van [Sat Naing](https://satnaing.dev/).
+ - [AstroPaper](https://github.com/satnaing/astro-paper) – Blog Thema, met dank aan [Sat Naing](https://satnaing.dev/)
+ - [Astro](https://astro.build/) – Web framework
+ - [Tailwind CSS](https://tailwindcss.com/) – CSS framework
+ - [CloudFlare Pages](https://pages.cloudflare.com/) – hosting
 
