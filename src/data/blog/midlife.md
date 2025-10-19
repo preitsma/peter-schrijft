@@ -1,7 +1,7 @@
 ---
 title: Midlife
 author: Peter Reitsma
-pubDatetime: 2025-10-19T15:33:05.569Z
+pubDatetime: 2025-10-18T15:33:05.569Z
 slug: midlife
 featured: true
 draft: false
