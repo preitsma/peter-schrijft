@@ -58,6 +58,11 @@ html[data-theme="dark"] {
   @apply max-w-3xl;
 }
 
+.colored::first-letter {
+  color: var(--accent);
+  font-size: 1.2em;
+}
+
 .active-nav {
   @apply underline decoration-wavy decoration-2 underline-offset-4;
 }
