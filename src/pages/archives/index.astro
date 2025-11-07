@@ -9,9 +9,9 @@ import getPostsByGroupCondition from "@/utils/getPostsByGroupCondition";
 import { SITE } from "@/config";
 
 // Redirect to 404 page if `showArchives` config is false
-if (!SITE.showArchives) {
-  return Astro.redirect("/404");
-}
+//if (!SITE.showArchives) {
+//  return Astro.redirect("/404");
+//}
 
 const posts = await getCollection("blog", ({ data }) => !data.draft);
 
@@ -31,9 +31,9 @@ const months = [
 ];
 ---
 
-<Layout title={`Archives | ${SITE.title}`}>
+<Layout title={`Archieven | ${SITE.title}`}>
   <Header />
-  <Main pageTitle="Archives" pageDesc="All the articles I've archived.">
+  <Main pageTitle="Archives" pageDesc="Alles wat ik gearchiveerd heb.">
     {
       Object.entries(
         getPostsByGroupCondition(posts, post =>

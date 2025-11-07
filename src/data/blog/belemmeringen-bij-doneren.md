@@ -1,7 +1,7 @@
 ---
 title: Hindernissen bij doneren
 author: Peter Reitsma
-pubDatetime: 2025-10-18T15:33:05.569Z
+pubDatetime: 2025-11-03T15:33:05.569Z
 slug: hindernissen-bij-doneren
 featured: true
 draft: false
@@ -15,7 +15,7 @@ description: Een opsomming van mentale hindernissen die je kunt tegenkomen bij d
 
 Ik was deze zomer op een Vipassana retraite. Aan het einde vroegen de
 leraren aandacht voor Dāna – de boeddhistische beoefening van vrijgevigheid. Dāna kan bestaan uit
-het schenken van immateriële zaken zoals bijvoorbeeld liefdevolle vriendelijkheid maar in de 
+het schenken van immateriële zaken zoals een helpende hand of een glimlach maar in de
 context
 van de retraite ging het ook om geld voor de organisatie, het verblijf, het eten en de leraren.
 
