@@ -98,7 +98,7 @@ iets geven maar stel dat het goed bevalt? Dat je er een goed
 gevoel van krijgt, verslingerd aan raakt en je je geld helemaal kwijt raakt?
 
 Dit argument is in zekere zin belachelijk. Ik contempleer een eenmalige donatie en mijn geest 
-extrapoleert dit tot een ultimo dat ongewenst is en gebruikt dat als argument tegen een 
+extrapoleert dit tot een ongewenst ultimo en gebruikt dat als argument tegen een 
 éénmalige gift.
 
 De Boeddha raadde ieder vermogend mens aan om in de eerste plaats goed voor zichzelf te 
@@ -106,5 +106,5 @@ zorgen en zijn naasten te zorgen. Bevraag jezelf serieus en realistisch wat je i
 nodig hebt voor je levensgeluk. Daaruit volgt wat je vrijuit kunt schenken zonder dat je eigen welzijn 
 in gevaar komt. 
 
-Kortom, kies de middenweg. Volg je hart én betracht wijsheid. 
+Kies de middenweg. Volg je hart én betracht wijsheid. 
 
