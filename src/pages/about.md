@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "Over"
 ---
 
-Mijn naam is Peter Reitsma. Deze website is een verzameling van mij schrijfsels.
+Mijn naam is Peter Reitsma. Deze website is een verzameling van mijn schrijfsels.
 
 ---
 
