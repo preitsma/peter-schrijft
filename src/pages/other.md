@@ -11,7 +11,9 @@ Schrijfsels elders.
 
  Geschreven als kersttips op www.graafflorisstraat.nl maar goed bruikbaar daarbuiten.
 
- - [Klimaatdoelstellingen? Makkie!](https://www.graafflorisstraat.nl/blog/2018/12/17/peters-kersttip-klimaatdoelstellingen-makkie/) 
+ - [Effectief doneren](https://www.graafflorisstraat.nl/blog/2025/12/20/peters-kersttip-je-gevoel-parkeren-en-effectief-doneren/)
+   – over hoe je effectief kunt doneren door je gevoel te parkeren.
+ - [Klimaatdoelstellingen? Makkie!](https://www.graafflorisstraat.nl/blog/2018/12/17/peters-kersttip-klimaatdoelstellingen-makkie/)
    – over hoe je je klimaatvoetafdruk kunt verminderen zonder daarbij aan levensgeluk in te boeten.
  - [CO2mpenseren](https://www.graafflorisstraat.nl/blog/2019/12/21/peters-kersttip-co2mpenseren/) 
    – over hoe je je CO2-voetafdruk kunt compenseren.

@@ -8,7 +8,7 @@ draft: false
 tags:
   - Boeddhisme
   - Doneren
-description: Een opsomming van mentale hindernissen die je kunt tegenkomen bij doneren.
+description: De mentale hindernissen waar je tegenaan kunt lopen bij het doen van een donatie.
 ---
 
 ## Dāna
@@ -55,8 +55,8 @@ vrijgevigheid.
 
 Onderzoek welk belang je aan die erkenning hecht en in welke mate dit voorwaardelijk is aan je 
 gift en de hoogte ervan. Bij klassieke dāna gaat het om de zuivere intentie zonder bijbedoelingen. 
-Als je écht wilt helpen: zorgen dat de ontvanger het goed heeft of beter krijgt, moet dat je 
-behoefte aan erkenning overwinnen.
+De wens om echt te helpen – zorgen dat de ontvanger het goed heeft of beter krijgt – zou moeten 
+prevaleren.
 
 ### "Wat gaan ze er precies mee doen?"
 
@@ -83,7 +83,7 @@ onbaatzuchtig geven.
 ### "Als ik dit geef, dan wordt ik zo'n Gutmensch..."
 
 Deze gedachte is raar, maar ik zag hem bij mezelf. Je wilt graag iets goeds doen, maar bent bang 
-voor het stempel _Gutmensch_, _Deuger_.
+voor het stempel _Gutmensch_, _Deugneus_.
 
 Deze angst geeft vooral aan hoe goed sommige 
 krachten in onze cultuur geslaagd zijn in het negatief framen van mensen die het beste voor hebben 
