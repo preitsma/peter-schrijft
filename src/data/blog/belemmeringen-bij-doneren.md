@@ -22,7 +22,7 @@ van de retraite ging het ook om geld voor de organisatie, het verblijf, het eten
 ## Dankbaarheid
 
 Ik was erg dankbaar voor alles wat ik ervaren en geleerd had op de retraite en was vast voornemens 
-om gul te geven. Maar, mindfull als ik was, voelde ik bij deze vraag en het bepalen van het
+om gul te geven. Maar, mindful als ik was, voelde ik bij deze vraag en het bepalen van het
 bedrag, tegelijk een aversie gevolgd door opkomende en
 voortwoekerende gedachten. De gedachten waren niet nieuw. Ik herkende ze van eerdere
 gelegenheden waar ik een donatie overwoog maar na tien dagen stilte en meditatie kon

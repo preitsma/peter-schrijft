@@ -2,10 +2,10 @@ export const SITE = {
   website: "https://peterschrijft.nl/", // replace this with your deployed domain
   googleSiteVerification: "HyuH2Q5mbn02gMAe-VKnyVHJyD7kUenIprR6SYtwzfs",
   author: "Peter Reitsma",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "Schrijfsels van Peter Reitsma",
   profile: "https://www.linkedin.com/in/preitsma/",
   title: "Peter Schrijft",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "tankstation.webp",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
