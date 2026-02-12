@@ -35,8 +35,6 @@ Schrijfsels elders.
 Geschreven van 2016 tot 2021 bij the Fellowship for Flawless 
 Fiction van The Writer's Guide to the Galaxy.
 
- - [De Trampoline](https://medium.com/@preitsma/de-trampoline-6f0885172303)
- - [De Linde](https://medium.com/@preitsma/de-linde-28128c88b6b6)
  - [De Broers](https://medium.com/@preitsma/de-broers-2a0f65bdf826)
  - [Spin](https://medium.com/@preitsma/spin-f031c2908dd)
  - [Keenan en ik](https://medium.com/@preitsma/keenan-en-ik-c196ee1013fa)

@@ -7,8 +7,8 @@ export const SITE = {
   title: "Peter Schrijft",
   ogImage: "tankstation.webp",
   lightAndDarkMode: true,
-  postPerIndex: 4,
-  postPerPage: 4,
+  postPerIndex: 8,
+  postPerPage: 8,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: false,
   showBackButton: true, // show back button in post detail
