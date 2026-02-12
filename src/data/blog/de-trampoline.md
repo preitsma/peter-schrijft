@@ -151,11 +151,11 @@ spreidt hij zijn vleugels en landt op een brede tak van de esdoorn die schudt en
 gewicht.
 Met interesse neemt de oude man een schichtige gevoel van angst waar dat heel even door zijn lichaam
 schiet. Met een klein sprongetje landt de reusachtige vogel naast hem. De man voelt de wind van 
-de vleugels over zijn gezicht waaien en hoort hoe de klauwen zich vastklampen aan de verroeste 
-verroeste veren tussen de ring en het polyester.   
+de dichtklappende vleugels over zijn gezicht en hoort hoe de klauwen zich vastklampen aan de 
+verroeste veren en de polyester mat.   
 Hij richt zijn blik op de kop van de condor, niet meer dan een meter van hem verwijderd. Een rood
-kraaloog met in het midden een zwarte pupil. Het kijkt hem aan. Dan
-combineert een geluid van een knippend snoeimes zich met een prikkelende sensatie in zijn
+kraaloog met in het midden een zwarte pupil. Het kijkt hem even aan. De vogel buigt zich over 
+hem heem. Een geluid van een knippend snoeimes combineert zich met een prikkelende sensatie in zijn
 buikstreek. De kop van de vogel kleurt rood. De oude man richt zijn geestesoog naar binnen, naar
 zijn laatste restje zelf. Een moment later lijkt alles vertraagd en is hij gelanceerd. De groene
 omheining van de trampoline wordt zichtbaar van bovenaf. In het midden ziet hij de springmat, een 
