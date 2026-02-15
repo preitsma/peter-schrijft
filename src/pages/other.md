@@ -36,7 +36,6 @@ Geschreven van 2016 tot 2021 bij the Fellowship for Flawless
 Fiction van The Writer's Guide to the Galaxy.
 
  - [De Broers](https://medium.com/@preitsma/de-broers-2a0f65bdf826)
- - [Spin](https://medium.com/@preitsma/spin-f031c2908dd)
  - [Keenan en ik](https://medium.com/@preitsma/keenan-en-ik-c196ee1013fa)
  - [De Schrijfopdracht](https://medium.com/@preitsma/de-schrijfopdracht-9bed90fa6eaa)
  - [Slappe Tong](https://medium.com/@preitsma/slappe-tong-b0f8dcf26a67)
