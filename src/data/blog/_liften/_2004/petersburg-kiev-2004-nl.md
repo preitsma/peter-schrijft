@@ -9,6 +9,7 @@ ogImage: _img/dag4-1.jpg
 tags:
   - Liften
   - Rusland
+  - Verslag
 description:
   Een verslag van mijn liftreis in 2004 van St. Petersburg naar Kiev
 ---
@@ -27,7 +28,7 @@ station Zvezdnaya, vandaar uit is het zo'n 500 meter lopen naar de vleesfabriek 
 poort geflankeerd wordt door twee grote gebeeldhouwde, koeien. Hier neemt de Moskovski Shosse de
 vorm van een snelweg aan, de M10 St.Petersburg-Moskou, en hier is al veel minder stadsverkeer. Op de
 kruising voor de poort van de vleesfabriek wordt niet te snel gereden en is voldoende plek voor
-auto's en vrachtwagens om te stoppen. Kortom, een puike liftplek !
+auto's en vrachtwagens om te stoppen. Kortom, een puike liftplek!
 
 Het was natuurlijk toch een beetje spannend na al die bangmakerij door mijn landgenoten en het
 kostte me enige mentale moeite om mijn arm omhoog te krijgen maar uiteindelijk stond ik toch
@@ -239,7 +240,7 @@ plaatsvond. Dit is een jaarlijks terugkerend hippie event.
 Ja hippies, ze bestaan nog in grote getalen in Oost Europa. Toen ik Mowgli vroeg of hij wel eens
 deelgenomen had aan liftwedstrijden, geen onbekend fenomeen in de nederlands studentenscene maar ook
 voorkomend in Rusland, antwoorde hij met een sterk amerikaans accent, 'No, it is competition, and
-competition is bad !'
+competition is bad!'
 Ik kreeg wat rozijntjes van ze en zij mochten van mijn water drinken. Ze kenden mijn helden A.Krotov
 en S.Bolshenko (de laatste zelfs persoonlijk) over wie ik reeds eerder schreef op mijn website.
 Krotov was volgens Mowgli momenteel weer op reis in India wat zou verklaren waarom hij mijn email
@@ -310,7 +311,7 @@ nauwkeurig onderzoek onderworpen. Er werden meer beambten met meer strepen bijge
 dat elke bladzij van het paspoort met een handscanner opgenomen werd.
 Zeker een uur lang staan wachten. Wellicht had een subtiel geplaatst flapje het proces kunnen
 versnellen maar ik had de tijd, en wist dat alles in orde was.
-Op een gegeven moment was mijn paspoort er weer met het bericht, 'Peter, goede reis gewenst !' (
+Op een gegeven moment was mijn paspoort er weer met het bericht, 'Peter, goede reis gewenst!' (
 счастливо вам!).
 
 ![Dag4](_img/dag4-7.jpg)
@@ -383,13 +384,13 @@ te verdienen. Enige welvaartsgroei vindt alleen in de steden plaats.
 
 Na drie uur wachten ben ik wat rond gaan lopen en een praatje gaan maken met chauffeurs van
 vrachtwagens die al er stonden toen ik aankwam. Ze stonden elkaar met veel handgebaar moppen te
-vertellen . Eéntje vertelde mij direkt dat hij geen plek had maar misschien zijn collega wel. In elk
+vertellen. Eéntje vertelde mij direkt dat hij geen plek had maar misschien zijn collega wel. In elk
 geval gingen ze pas over een uur weg. Naar aanleiding van mijn verschijning ging het gesprek over op
 lifters en het bleek dat één van hen eens een hele nacht was wakker gehouden door een lid van de
 Petersburgse Autostop Liga (sportieve lifters), die in lichtreflecterende overalls liften. Toen
 bleek dat ik ook voor de lol onderweg was en uit Nederland kwam mocht ik niet meer verder liften
 maar stonden ze erop dat ik met hun mee zou rijden. Ze zouden over een halfuurtje al gaan met
-eindbestemming Kiev !
+eindbestemming Kiev!
 In de tussentijd kreeg ik koffie, thee en koek in het aftanse stacaravan truckerscafé en na een
 korte maar hevige wolkbreuk gingen we daadwerkelijk op weg.
 Het betrof een konvooi van vier vrachtwagens die reeds drie dagen onderweg waren vanuit Samara (
@@ -431,7 +432,7 @@ In de buurt van Kiev waren er wegopbrekingen die de heren slim dachten te omzijl
 te gaan nemen. Hierdoor naderden we Kiev echter slechts langzaam. Het was al donker toen ik vlak na
 de brug over de Dnjepr werd afgezet bij een groot klaverbad aan de rand van de stad.
 Van daaruit was het dichtstbijzijnde metrostation snel gevonden en een half uurtje later was mijn
-rendez-vous met Oleg en Max op Independence Square in Kiev een feit. Veni, vidi, vici !
+rendez-vous met Oleg en Max op Independence Square in Kiev een feit. Veni, vidi, vici!
 
 ![Dag5](_img/dag5-4.jpg)
 
