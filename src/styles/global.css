@@ -72,3 +72,7 @@ html[data-theme="dark"] {
 :target {
   scroll-margin-block: 1rem;
 }
+
+article img {
+  width: 100%;
+}
