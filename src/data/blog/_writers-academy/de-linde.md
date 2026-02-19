@@ -5,7 +5,7 @@ pubDatetime: 2018-11-03T15:33:05.569Z
 slug: de-linde
 featured: true
 draft: false
-ogImage: ../../assets/images/linde.webp
+ogImage: _img/linde.webp
 tags:
   - Essay
 description:
@@ -13,7 +13,7 @@ description:
   Fellowship for Flawless Fiction van The Writer's Guide to the Galaxy.
 ---
 
-![Linde](@/assets/images/linde.webp)
+![Linde](_img/linde.webp)
 
 Het grootste gedeelte van mijn leven gunde ik bomen geen blik waardig. Tegemoetkomend zijn ze niet
 en wij mensen zijn weinig geneigd hen onze aandacht te schenken. In de bebouwde omgevingen waarin

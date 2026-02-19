@@ -5,14 +5,14 @@ pubDatetime: 2022-04-10T15:33:05.569Z
 slug: midlife
 featured: true
 draft: false
-ogImage: ../../assets/images/midlife.png
+ogImage: _img/midlife.png
 tags:
   - Verhaal
 description: Een kort verhaal geschreven in april 2019 bij het creative writing groepje 
   Fellowship for Flawless Fiction van The Writer's Guide to the Galaxy. 
 ---
 
-![Midlife](@/assets/images/midlife.png)
+![Midlife](_img/midlife.png)
 
 ## 1.
 

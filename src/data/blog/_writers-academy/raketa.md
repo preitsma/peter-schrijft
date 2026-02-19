@@ -5,7 +5,7 @@ pubDatetime: 2016-09-03T15:33:05.569Z
 slug: raketa
 featured: true
 draft: false
-ogImage: ../../assets/images/raketa.webp
+ogImage: _img/raketa.webp
 tags:
   - Verhaal
   - Liften
@@ -15,7 +15,7 @@ description:
   Fellowship for Flawless Fiction van The Writer's Guide to the Galaxy.
 ---
 
-![Raketa](@/assets/images/raketa.webp)
+![Raketa](_img/raketa.webp)
 
 Tien uur zit Olaf nu in de hete cabine van de bulderende Kamaz die schokkend en stotend zijn last
 van duizenden rinkelende wodkaflessen voorttorst over de ooit geasfalteerde en met kuilen bezaaide

@@ -5,7 +5,7 @@ pubDatetime: 2016-11-03T15:33:05.569Z
 slug: de-schrijfopdracht
 featured: true
 draft: false
-ogImage: ../../assets/images/schrijfopdracht.webp
+ogImage: _img/schrijfopdracht.webp
 tags:
   - Verhaal
 description:
@@ -14,7 +14,7 @@ description:
   Fellowship for Flawless Fiction van The Writer's Guide to the Galaxy. 
 ---
 
-![Schrijfopdracht](@/assets/images/schrijfopdracht.webp)
+![Schrijfopdracht](_img/schrijfopdracht.webp)
 
 De beginnende schrijver zit aan zijn bureau te peinzen. Jonas Schetterkop, want zo heette hij, was
 een aardige jongeman. Zijn ouders waren vroeg overleden en hij was door zijn grootmoeder opgevoed

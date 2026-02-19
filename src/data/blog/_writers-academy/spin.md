@@ -5,7 +5,7 @@ pubDatetime: 2017-09-03T15:33:05.569Z
 slug: spin
 featured: true
 draft: false
-ogImage: ../../assets/images/spin.webp
+ogImage: _img/spin.webp
 tags:
   - Essay
 description:
@@ -13,7 +13,7 @@ description:
   Fellowship for Flawless Fiction van The Writer's Guide to the Galaxy.
 ---
 
-![Spin](@/assets/images/spin.webp)
+![Spin](_img/spin.webp)
 
 Toen ik op een morgen mijn bed uitkwam en het gordijn opende, zat zij daar, aan de buitenkant van
 het raam, midden in een strak geweven web. Heerser van haar eigen platte universum. Spin.  

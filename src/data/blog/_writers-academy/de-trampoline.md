@@ -5,7 +5,7 @@ pubDatetime: 2025-11-03T15:33:05.569Z
 slug: de-trampoline
 featured: true
 draft: false
-ogImage: ../../assets/images/trampoline.webp
+ogImage: _img/trampoline.webp
 tags:
   - Boeddhisme
   - Verhaal
@@ -14,7 +14,7 @@ description:
   Fellowship for Flawless Fiction van The Writer's Guide to the Galaxy.
 ---
 
-![Trampoline](@/assets/images/trampoline.webp)
+![Trampoline](_img/trampoline.webp)
 
 Zo op het eerste oog herinnerde niks in de volkstuin meer aan de kinderen die er ooit hadden
 gespeeld. De brede schommel van dikke balken die pontificaal het gazon had bezet was jaren geleden
