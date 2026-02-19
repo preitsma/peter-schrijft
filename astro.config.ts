@@ -21,8 +21,8 @@ export default defineConfig({
   ],
   markdown: {
     remarkPlugins: [
-      [remarkToc, { heading: "Inhoud|Table of Contents|toc" }],
-      [remarkCollapse, { test: "Inhoud|Table of Contents|toc" }],
+      [remarkToc, { heading: "Inhoud|Table of Contents|Содержание|toc" }],
+      [remarkCollapse, { test: "Inhoud|Table of Contents|Содержание|toc" }],
     ],
     shikiConfig: {
       // For more themes, visit https://shiki.style/themes

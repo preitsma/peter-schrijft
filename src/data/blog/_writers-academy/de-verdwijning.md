@@ -432,7 +432,7 @@ laat haar dood niet voor niks zijn geweest. Het was de ultieme daad van
 liefde…”   
 Trudy verlaat de kamer. Dick en ik blijven achter, in stilte.
 
-## VI – Zondagmorgen 9 april 2017
+## VI – Reconstructie 9 april 2017
 
 Wat er in het fatale weekend precies is omgegaan in Dawinde zal voor altijd onbekend blijven. Het is
 aannemelijk dat het plan, en daarmee haar doodswens, reeds klaarlag, ergens 
@@ -533,6 +533,6 @@ we ze gemaakt. Op TV zie je mij onder water altijd als een krankzinnige in de we
 maar dat is pure show. Dawinde wist dat, ik had het haar verteld. Ze had elk moment nog kunnen
 ontsnappen.”   
 
-Maar Dawinde hield controle, tot het laatste moment. Als er al sprake was van een doodstrijd dan
-had ze die in de weken, maanden en jaren daarvoor al gevoerd. 
+Maar Dawinde hield controle, tot het laatste moment. De strijd had ze al gevoerd in
+de weken, maanden en jaren daarvoor. 
 
