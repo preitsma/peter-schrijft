@@ -23,6 +23,9 @@ pnpm-debug.log*
 # jetbrains setting folder
 .idea/
 
+# orig images
+_orig/
+
 # pagefind
 
 public/pagefind
