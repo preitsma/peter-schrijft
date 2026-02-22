@@ -67,7 +67,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
     {
       recentPosts.length > 0 && (
         <section id="recent-posts" class="pt-12 pb-6">
-          <h2 class="text-2xl font-semibold tracking-wide">Recente Artikelen</h2>
+          <h2 class="text-2xl font-semibold tracking-wide">Recente Schrijfsels</h2>
           <ul>
             {recentPosts.map(
               (data, index) =>
@@ -80,7 +80,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 
     <div class="my-8 text-center">
       <LinkButton href="/posts/">
-        Alle Artikelen
+        Alle Schrijfsels
         <IconArrowRight class="inline-block rtl:-rotate-180" />
       </LinkButton>
     </div>

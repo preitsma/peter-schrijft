@@ -3,7 +3,7 @@ title: Raketa
 author: Peter Reitsma
 pubDatetime: 2016-09-03T15:33:05.569Z
 slug: raketa
-featured: true
+featured: false
 draft: false
 ogImage: _img/raketa.webp
 tags:

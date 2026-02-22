@@ -36,13 +36,10 @@ Geschreven van 2016 tot 2021 bij the Fellowship for Flawless
 Fiction van The Writer's Guide to the Galaxy.
 
  - [De Broers](https://medium.com/@preitsma/de-broers-2a0f65bdf826)
- - [Keenan en ik](https://medium.com/@preitsma/keenan-en-ik-c196ee1013fa)
- - [Slappe Tong](https://medium.com/@preitsma/slappe-tong-b0f8dcf26a67)
  - [Larochka](https://medium.com/@preitsma/larochka-9623e14cf4ea)
  - [Straattaal](https://medium.com/@preitsma/straattaal-5c015aa62fdd)
  - [E-lipogram](https://medium.com/@preitsma/e-lipogram-b5505cd86229) – een verhaal zonder de 
    letter e.
- - [De Punker](https://medium.com/@preitsma/de-punker-da9b84258d0b)
  - [De Stash](https://medium.com/@preitsma/de-stash-59854ae7ad9d)
  - [De Neus](https://medium.com/@preitsma/de-neus-38c9edb3f2c9) – een hertaling van De Neus van 
    Gogol.
