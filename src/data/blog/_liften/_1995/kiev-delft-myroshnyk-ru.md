@@ -1,7 +1,7 @@
 ---
-title: Hoe Oleg Miroshnyk van Kiev naar Delft liftte
+title: Как Мирошник путешествовал автостопом
 author: Oleg Miroshnyk
-pubDatetime: 1996-07-03T15:33:05.569Z
+pubDatetime: 1995-07-03T15:33:05.569Z
 slug: kiev-delft-miroshnyk
 featured: true
 draft: false
@@ -10,7 +10,7 @@ tags:
   - Русский
   - Verslag
 description:
-  Een verslag van de liftreis van Oleg Miroshnyk van Kiev naar Delft
+  Как Олег Мирошнук путешествовал автостопом из Києва в Нидерланды в 1995 году
 ---
 
 ## Содержание
