@@ -176,7 +176,7 @@ Net als meditatie is ook koudwaterzwemmen onderhevig aan de wet van de afnemende
 Wetenschappelijk bewijs voor positieve gezondheidseffecten ervan blijft uit, wat ook het
 placebo-effect geen goed doet. Inmiddels is het vooral de angst voor een terugval naar een oudere
 versie van mezelf, die me elke zondag het koude water in drijft. Dat, en een loyaliteit naar mijn
-medekanaalzwemmers die ik ooit in mijn initiële enthousiasme heb meegekregen.
+medekanaalzwemmers die ik ooit in mijn initiële enthousiasme heb meegekregen.  
 Waarom was ik er ooit aan begonnen? Komt het voort uit een ziel die alsmaar vooruit wil, steeds
 actief op zoek naar nieuwe ervaringen, diepere inzichten en grootsere waarheden? Of is het juist een
 poging om dat streven, eventjes, voor de duur van de plons, te stoppen? Met goede wil noem ik het
@@ -185,7 +185,7 @@ waar.
 
 Ik kom aan bij de rotonde van het Kleinpolderplein. Hoewel ik het niet heb, krijg ik hier doorgaans
 wel voorrang van de afslaande automobilisten. Vandaag echter niet. Ik rem abrupt en kom net op tijd
-tot stilstand voor de haaientanden. Een reeks auto’s kruist nu snel rijdend voor mij lang en ik kan
+tot stilstand voor de haaientanden. Een reeks auto’s kruist nu snel rijdend voor mij langs en ik kan
 niets anders dan wachten. Ik voel ergernis. Voortwoekerend van de eerste automobilist naar
 autorijders en auto’s in het algemeen. Fijnstof, geluidsoverlast, het ruimtegebruik. De negatieve
 effecten van die steeds groter wordende stalen omhulsels op de compassie van de bestuurders et
