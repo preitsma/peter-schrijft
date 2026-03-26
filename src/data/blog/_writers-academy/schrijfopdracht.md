@@ -3,7 +3,7 @@ title: De Schrijfopdracht
 author: Peter Reitsma
 pubDatetime: 2016-11-03T15:33:05.569Z
 slug: de-schrijfopdracht
-featured: false
+featured: true
 draft: false
 ogImage: _img/schrijfopdracht.webp
 tags:

@@ -1,5 +1,5 @@
 ---
-title: Как Мирошник путешествовал автостопом
+title: Как Мирошнук путешествовал автостопом
 author: Oleg Miroshnyk
 pubDatetime: 1995-07-03T15:33:05.569Z
 slug: kiev-delft-miroshnyk
