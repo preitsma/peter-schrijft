@@ -61,15 +61,15 @@ weet niks van mij. Ik ben een vlekje, een kortstondige decoratie, één van de d
 ze op haar busreis zal zien.   
 Dan is er plotsklaps een doorvoeld besef. De zwaarte van mijn binnenwereld met al zijn waarnemingen,
 projecties, gedachten, plannen, verwachtingen en emoties valt even weg. _Haar_ beeld van mij is 
-net zo waar is als het _mijne_ van mijzelf. Ik ben dat voorbijtrekkende fietsertje dat zij ziet, 
+net zo waar als het _mijne_ van mijzelf. Ik ben dat voorbijtrekkende fietsertje dat zij ziet, 
 vluchtig en onbeduidend.
 
 De glimp die ik krijg op dat fietspad brengt me terug naar de ochtend van dag vier van de tiendaagse
 stilteretraite waaraan ik afgelopen zomer deelnam. De ochtendmeditatie achter de rug, zat ik
 zwijgend aan de havermoutpap. Naast me zat een dame. Zij kuchte of ik kuchte, dat weet ik dus niet
-meer, maar ik ervoer een plotselinge verandering van perspectief. Er was ineens geen wezenlijk
+meer, maar ik ervoer een plotselinge verandering van perspectief. Ineens was er geen wezenlijk
 verschil meer tussen haar kuch en de mijne.  
-Enerzijds beredeneerd is het verschil ook klein. Het kriebeltje zit in mijn keel. De hoest vindt bij
+Enerzijds beredeneerd is het verschil ook klein: het kriebeltje zit in mijn keel. De hoest vindt bij
 mij plaats en dat feit bereikt via mijn oren en gevoelszintuigen mijn bewustzijn. Of het kriebeltje
 zit een metertje verderop, in haar keel. Zij hoest en het geluid daarvan bereikt via mijn oren en
 brein mijn bewustzijn.  
@@ -80,8 +80,10 @@ Blijkbaar bestaat er een bewustzijnstoestand waarin de grenzen tussen het zelf e
 zijn. Waarin het niet meer uitmaakt aan welke kant van de huid iets gebeurt. De voortdurende
 classificatie als _mijn_ of _dijn_ is voor even stopgezet.
 
-Inmiddels kan ik voorvallen als deze duiden als een ervaring van niet-zelf, één van de zogenaamde
-karakteristieken van het bestaan. Je kunt het principe zien als de leegte van het zelf, het
+Inmiddels kan ik voorvallen als deze duiden als een ervaring van niet-zelf, één 
+van de zogenaamde karakteristieken van het bestaan in het Boeddhisme. Je kunt het principe zien 
+als de leegte 
+van het zelf, het
 ontbreken van een vaste kern. De Boeddha doorzag dit: “Gedachten zijn niet-zelf. Als gedachten het
 zelf waren, dan zouden we ze kunnen sturen en zouden ze niet tot lijden leiden. Daarom zijn
 gedachten niet van mij, dit ben ik niet, dit is niet mijn zelf”.  
@@ -111,19 +113,21 @@ game, een computergesimuleerd figuur dat niet bestuurd wordt door een menselijke
 meedoet als vulling in een gamewereld. Tieners en internettrollen gebruiken de term vrij achteloos
 als scheldwoord en beledigende aanduiding. In mijn rol als opvoeder maak ik altijd werk om de
 walgelijkheid van dit scheldwoord uit te leggen. Als zelfbenoemd NPC, als _lege_ zelf, als setje
-pixels dat alleen bestaat in het oog van een ander, voel ik nu tot mijn verbazing een prettige kant:
+pixels dat alleen bestaat in het oog van een ander, voelde ik tot mijn verbazing een prettige 
+kant:
 bevrijding en rust.
 
 In mijn vroege jeugd hield ik vooral van de God modus. Er waren toen nog geen homecomputers, laat
 staan online role playing games maar ’s avonds in bed stelde ik mij het oppervlak van mijn deken
 voor als een landschap en mijzelf daaronder als een almachtige tectonische reus die het lot van die
-wereld bepaalde. Eén schok van mijn knie deed complete steden in een aardbeving vergaan. Dat was
+wereld bepaalde. Eén schok van mijn knie deed complete steden in een aardbeving vergaan.  
+Dat was
 mijn fantasiewereld maar ook in het echte leven wilde ik graag bepalen. Ik had – voor zover ik me
 kan herinneren – een hoge pet van mijn eigen kunnen en de vaste overtuiging grootse zaken te gaan
 verrichten of op zijn minst beroemd te gaan worden. Zo herinner ik me de scherpe pijn bij het zien
 van Danny de Munck. Ik had Ciske de Rat gelezen, een dikke pil in de oorspronkelijke uitgave, en
-hoewel ik verder helemaal niks had met zingen of toneel, was het in mijn wereld niet meer dan
-logisch dat ik die hoofdrol zou spelen. En toen ik op de zondagsschool en in de kerk hoorde van ene
+hoewel ik verder helemaal niks had met zingen of toneel, leek het me niet meer dan logisch dat ik
+die hoofdrol zou spelen. En toen ik op de zondagsschool en in de kerk hoorde van ene
 Jezus en zijn terugkeer op aarde, ontstond al snel de stiekeme gedachte dat ik Hem weleens zou
 kunnen zijn. Wat ouder begreep ik dat ik niet uniek was in mijn messiaswaan maar toch. Eentje moest
 de ware zijn, zo redeneerde ik. Ook in Jezus’ tijd waren er valse profeten, maar was er uiteindelijk
@@ -146,7 +150,7 @@ Op de diverse IT projecten waar ik in mijn dertiger jaren als ondernemer aan beg
 uit in het nachtelijk dromen over een grootse eindfase. In de ochtenden ontbrak het me aan
 daadkracht en doorzettingsvermogen voor de noodzakelijke stappen. Terugblikkend op die tijd, besef
 ik dat het me vooral ontbrak aan realiteitszin. Ik liep niet zo zeer op de werkelijkheid vooruit,
-maar liep in een andere werkelijkheid, eentje waarin ik alles zelf zou moeten kunnen en ook moest
+maar liep in een andere werkelijkheid, eentje waarin ik alles zelf moest kunnen en ook moest
 doen.
 
 Gedurende die jaren las en herlas ik de autobiografische romancyclus _Mijn Strijd_ van Karl Ove
@@ -159,8 +163,9 @@ De romans raakten mij destijds enorm. In eerste instantie was het de herkenning 
 Een jonge vader die vastzit tussen de liefde voor zijn gezin en een leven dat hij niet wil leiden,
 gefrustreerd over zijn werk dat niet van de grond komt. Ook de uitgebreide herleving van zijn jeugd
 in een suburbane jaren zeventig wijk en zijn adolescentie, waarin hij zich onder invloed van een
-grillige vader terugtrekt in zijn binnenwereld, een beweging die hij in deel 6 benoemt als
-_omwikkeling_ in plaats van een ontwikkeling, resoneerde bij mij. Maar de romans gaan verder. Al
+grillige vader terugtrekt in zijn binnenwereld, een beweging die hij in deel zes benoemt als
+_omwikkeling_ in plaats van ontwikkeling, resoneerde bij mij.  
+Maar de romans gaan verder. Al
 schrijvend beziet Knausgård zichzelf, in al zijn verschillende rollen en hoedanigheden, vooral die
 van een mens die opgaat in zijn dagelijkse bezigheden zoals boodschappen doen, huishouden en
 kinderen verzorgen. Gaandeweg opent hij zichzelf als schrijver en mij als lezer de ogen voor de
@@ -194,13 +199,14 @@ Dan slaat de ergernis terug op mijzelf. Waarom laat ik me kidnappen door deze pr
 ik me al laat beetnemen door iets futiels als road rage, ben ik dan in al die jaren meditatie ook
 maar iets opgeschoten richting verlichting? Niet alleen op fiets sta ik stil, op het spirituele pad
 lijk ik helemaal afgestapt. Niks kom ik verder. Alleen mijn brein draait door.
+
 Tijdens de retraite van afgelopen zomer geeft één van de twee leraren een dharma-talk over
 _papañca_,
 het Pali-woord dat zoveel betekent als voortwoekerende fabricatie, mentale proliferatie. De neiging
 van de geest om één perceptie eindeloos uit te strijken tot een plakkerige sliert van gedachten en
-emoties, soms tot het obsessieve toe en steevast leidend tot leed. Het klonk me toen al alleszins
-herkenbaar in de oren. Het meeste leed komt voort uit lijden dat niet komen gaat, is hiervan een
-Stoïcijnse variant, aan Seneca toegeschreven.
+emoties, soms tot het obsessieve toe en steevast leidend tot leed. Het meeste leed komt voort uit lijden dat niet komen gaat, is hiervan een
+Stoïcijnse variant, aan Seneca toegeschreven. Het klonk me toen al alleszins
+herkenbaar in de oren.
 
 Later die dag, na afloop van een lange zit, loopt een wat onwelriekende retraitegenoot voor mij de
 meditatiezaal uit. Nog voordat we de edele stilte aannamen, had ik kort met hem kennisgemaakt. Hij
@@ -226,8 +232,8 @@ bestaat uit al mijn percepties, inclusief de perceptie van mijn eigen gedachten.
 software, het verwerkende gedeelte, bestaat uit mijn brein en alle conditionering daarvan, een
 optelsom van genen, voeding, opvoeding, ervaringen et cetera. De output bestaat uit gedachten,
 intenties en uiteindelijke handelingen zoals bewegingen en spraak. Het onbegrijpelijk wonderlijke
-van deze computer is dat het zichzelf via een bewustzijn van binnenuit kan bezien maar in wezen leeg
-is, in de Boeddhistische zin van het woord, essentieloos, net zoals alles in de natuur, rotsen,
+van deze computer is dat het zichzelf via het bewustzijn van binnenuit kan bezien maar in wezen leeg
+is, in de Boeddhistische zin van het woord, essentieloos, net zoals alles in de natuur: rotsen,
 gebouwen, bomen, dieren en andere mensen.
 
 Verwonderd, verward, maar ook opgelucht wandel ik even later door die natuur, door het bos met de
@@ -249,8 +255,8 @@ weer. De werkelijkheid als een grote stroom van vergankelijke en wederzijdse afh
 die elkaar verzoorzaken en weer doen verdwijnen. Ik besta dus wel, maar niet als separate en
 onafhankelijke entiteit. Pittige materie om je hoofd omheen te wikkelen. In diepe meditatieve
 toestanden schijnt deze waarheid zich doorvoeld, belichaamd zogezegd, aan je te presenteren. Ze tipt
-mij het boek _Seeing that Frees_ van Rob Burbea over dit onderwerp en het lange pad dat naar dit
-inzicht leidt.
+mij het boek _Seeing that Frees_ van Rob Burbea, dat gaat over dit onderwerp en het pad dat 
+naar dit inzicht leidt.
 
 De rotonde voorbij, fietst die vergankelijke stroom processen, oftewel ik, het stadsdeel Overschie
 binnen. Het pad maakt een bocht en ik kom aan bij het punt waar vorig jaar een kauwtje tussen mijn
@@ -282,7 +288,7 @@ In het vervolg van _This Life_ beargumenteert Hägglund dat het juist de fragili
 eindigheid van
 ons leven zijn die het bestaan zin geven. Hij introduceert het begrip _seculier_ geloof, geloof in
 aardse strevens en projecten, die precies door hun inherente risico op falen en het daarmee gepaard
-gaande leiden, het gegeven dat er iets op het spel staat, de moeite waard worden. Dat contrasteert
+gaande lijden, het gegeven dat er iets op het spel staat, de moeite waard worden. Dat contrasteert
 hij met _religieus_ geloof waarin de hoogste vorm van bestaan het eeuwige is in plaats van het
 eindige
 en zich daarmee van dit leven afkeert. Naast andere religies, fileert Hägglund ook het boeddhisme
@@ -301,15 +307,16 @@ leert de blik te richten op zijn eigen bestaan met alles wat daarbij hoort, de m
 de pijn, het ongemak, de fragiliteit en de eindigheid. Juist daarmee committeert hij zich weer aan
 zijn eigen leven. Een langzame bekering tot seculier geloof, dat is hoe Hägglund het ziet.
 
-Knausgård nogmaals herlezend realiseer ik me hoe mindful hij eigenlijk ook is, hoe ontzettend
+Knausgård nogmaals herlezend realiseer ik me ook hoe mindful hij eigenlijk is, hoe ontzettend
 sensitief voor alles wat er in zijn binnenwereld gebeurt. In tegenstelling tot een Boeddhist echter,
 is hij niet nuchter mindful. Zijn doel is niet om gedachten en gevoelens te neutraliseren, ze te
 zien voor wat ze zijn en zo een gelijkmoedigheid te bereiken. Integendeel, hij laat zich er
 voortdurend door meeslepen en gaat er volledig in op. Papañca is zijn literaire vriend. Zo schiet
-hij vol van schaamte bij een bepaalde blik die een vriend hem toewerpt, rilt bij het onbehagen dat
+hij vol van schaamte bij een bepaalde blik die een vriend hem toewerpt, rilt hij bij het 
+onbehagen dat
 een zwerm lieveheersbeestjes bij hem oproept en staat hij bladzijden lang stil bij het gevoel dat
 een bepaalde lichtval in het raam van zijn appartement in Malmö bij hem opwekt en de herinneringen
-die dat weer oproept. Overal zoekt en vindt hij betekenis. Dat beschouwend schrijft hij in deel 6:
+die dat weer oproept. Overal zoekt en vindt hij betekenis. Dat beschouwend schrijft hij in deel zes:
 “Zin wordt mogelijk door de verinnerlijking van de wereld. Betekenis ontstaat in de blik, alle zin
 in het hart. De wereld zin geven is de mens eigen, wij zijn het zingevende schepsel en het is niet
 alleen onze verantwoordelijkheid, het is ook onze plicht.”
