@@ -120,7 +120,7 @@ Net toen ik hem wilde aanspreken stopte er een auto voor hem, de lifter vroeg de
 
 Het bleek dat hij direkt richting Moskou reed ! Dat was geregeld dus. De andere lifter bleek Vjaza te heten en was 19 jaar oud. Hij herinnerde zich mijn [post](http://www.bpclub.ru/index.php?showtopic=2363) op het Russian Backpacker forum en was erg blij mij te ontmoeten ! Hij nodigde mij onmiddelijk uit om naar Jaroslavl te komen. De uitnodiging werd gedurende de reis nog een paar keer herhaald en kracht bijgezet met allerlei beschrijvingen van deze 1000 jaar oude stad en haar bezienswaardigheden. Het klonk best aanlokkelijk hoewel het wel 250 km de verkeerde kant op ligt.
 
-![Dima, Anya en lifter](_img/4/dimaanyaenlifter.JPG)
+![Dima, Anya en lifter](_img/4/dimaanyaenlifter.jpg)
 In wit-rusland reed Dima redelijk rustig omdat hij geen wit-russisch geld meer had voor benzine en niet veel spritze meer had. Met mijn laatste geld nog even getankt en toen reden we al wat harder.
 
 Ik maakte me al weer op voor een zware grensovergang maar hiervan bleek helemaal geen sprake. Al stond er wel een kilometerslange vrachtwagenfile, personenauto's konden doorrijden zonder paspoortcontrole. Wit-Rusland en Rusland vormen een soort van unie of zoiets. Er zijn helaas wel twee visa nodig maar het declaratieformuliertje dat ik bij de Pools - Witrussische grens had ingevuld is weer geldig voor beide landen.
@@ -129,7 +129,7 @@ Eenmaal Rusland bereikt ging de snelheid goed omhoog en af en toe bereikten we d
 
 Na een heel gezellige rit van zo'n 8 uur bereikten we zo Moskou. Iedereen was blij. De andere lifter werd afgezet bij een metro station en Dima begon mij te vragen wat mijn direkte plannen waren. Deze waren vrij vaag, dat moet ik toegeven, ik had een lijst met telefoonnummers en een hotelboeking maar nog niks concreets bedacht. Daarop nodigde hij mij uit naar zijn huis.
 
-![Anya en Matilda](_img/4/anyaenmatilda.JPG)
+![Anya en Matilda](_img/4/anyaenmatilda.jpg)
 
 Dat bleek een heel mooi ruim appartement in Moskou-Zuid. Snel even gedouched en nadat ik op aandringen van Dima mijn broek had gestreken, gingen we naar een Oekraiens restaurant. Beetje wodka op en Borsch en Salo (wit dierlijk vet dat in de Oekraine als een lekkernij wordt beschouwd). Onderweg naar huis nog even wat DVD's gekocht en ontbijt voor de volgende dag. 's Avonds dus nog whiskey gedronken en de portfolio van Anja bekeken, die modellenwerk deed. (Rijdend door Moskou kon ze haar collega's op de billboards aanwijzen). Verder de film Madagaskar gekeken, een aanrader. Ik kreeg een DVD van de film Fandorin, naar de roman van Boris Akunin (Fandorin, een verbastering van de nederlandse naam Van Dooren, is de Sherlock Holmes van Rusland) en een grote fles sterk belgisch bier, die later duits bleek te zijn en door Oleg bij het ontbijt weggewerkt is.
 
